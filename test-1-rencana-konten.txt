@@ -6,6 +6,7 @@ Rencana konten test-1
    ^ api
   * read
    ^ api
+   ^ table
 - fundamental
 - git
  * github
