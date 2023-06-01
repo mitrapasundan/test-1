@@ -2,7 +2,8 @@ Rencana konten test-1
 
 - laravel
   * create
+   ^ form
   * read
-- fundamental
+   * table
 - git
 - api
