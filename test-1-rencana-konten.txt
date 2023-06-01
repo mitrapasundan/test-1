@@ -3,5 +3,6 @@ Rencana konten test-1
 - laravel
   * create
   * read
+- fundamental
 - git
 - api
